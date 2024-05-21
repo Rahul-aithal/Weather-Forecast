@@ -1,3 +1,5 @@
+import apiKey from "./api_key";
+
 function getLocation() {
 
   return new Promise((res, rej) => {
